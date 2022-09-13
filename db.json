@@ -1,7 +1,13 @@
 {
- "alunos": [
-{"id":35,"nome":"Pedro Loureiro","email":"pedro@teste.com","ativo":false,"alunosCursos":null},
-{"id":36,"nome":"Carlos Eduardo","email":"carlos@teste.com","ativo":false,"alunosCursos":null},
-{"id":37,"nome":"Lucas Neves","email":"lucas@teste.com","ativo":false,"alunosCursos":null}
-]
-}
+   
+    "alunos": [
+      { "id": 1, "nome": "Marcela da Silva", "email": "marcela@teste.com"},
+      { "id": 2, "nome": "José Luiz Felipe", "email": "jose@teste.com" },
+      { "id": 3, "nome": "Paulo Rogério", "email": "paulo@teste.com" },
+      { "id": 4, "nome": "Felipe da Cunha", "email": "felipe@teste.com" },
+      { "id": 5, "nome": "Luiza Cardoso Pereira", "email": "luiza@teste.com" }
+    ],
+    "empresa": {
+      "nome": "Code Prestige"
+    }
+  }
